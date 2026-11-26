@@ -26,7 +26,9 @@ These rows map the available work to course weeks; they do not record dates of p
 
 ## GitHub Projects
 
-The instructor-accessible GitHub Projects board has not yet been linked.
+[DLSP GitHub Projects board](https://github.com/users/isOxygen/projects/1)
+
+The public board has Todo, In Progress and Done columns. The weekly milestones and deliverables are listed above.
 
 ## Additional documents
 - [Architecture and task flow](docs/architecture.md)
