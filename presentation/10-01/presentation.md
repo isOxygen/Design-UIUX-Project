@@ -15,11 +15,9 @@ The split groups related choices together. Each view is easier to focus on, and 
 
 ---
 
-# Status and Manage have different jobs
+# 03. Status and Manage have different jobs
 
-| Status: monitor | Manage: act |
-|---|---|
-| ![Status screenshot](../../project/assets/status.jpg) | ![Manage screenshot](../../project/assets/manage.jpg) |
+![Two full mobile screenshots side by side: Status and Manage](slide-03-mobile-views.png)
 
 These are the two implemented views of the same service, not a before-and-after comparison. Identifiers have been masked.
 
