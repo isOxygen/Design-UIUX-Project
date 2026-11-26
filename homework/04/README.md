@@ -9,4 +9,6 @@ As a returning subscriber, I want to find setup details without confusing them w
 
 [Decision log](../../project/docs/decisions.md)
 
+[DLSP FigJam board](https://www.figma.com/board/YKMsKXq0KdPqBdp26FtpbG?node-id=4-41)
+
 [Course brief](https://pte-mik.github.io/info/ux-ui-en/content/04/04-00-homework/)
