@@ -1,6 +1,6 @@
 ---
 week: "04"
-student: "Mohammadhossein Zare"
+neptun: "DJSAMS"
 ---
 
 # 04: Problem definition and alternatives

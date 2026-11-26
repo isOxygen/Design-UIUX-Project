@@ -1,3 +1,8 @@
+---
+name: "Mohammadhossein Zare"
+neptun: "DJSAMS"
+---
+
 # DLSP | UX/UI Design
 
 ![Coursework](https://img.shields.io/badge/course-UX%2FUI%20Design-27332F) ![Scope](https://img.shields.io/badge/scope-mobile%20case%20study-356A55)
@@ -9,6 +14,4 @@ DLSP is a mobile-first interface for managing a VPN subscription. **Status** sho
 - [Presentation, speaker notes and demo backup](presentation/10-01/README.md)
 - [DLSP FigJam board](https://www.figma.com/board/YKMsKXq0KdPqBdp26FtpbG?node-id=4-41) · [DLSP Figma prototype](https://www.figma.com/proto/xlMfwAFsziZRuoTJ4dYbMb?node-id=5-2)
 
-**Student:** Mohammadhossein Zare  
-
-This portfolio case study uses redacted screenshots and a demo with placeholders. It does not include the production application or account credentials.
+This course submission uses redacted screenshots and a demo with placeholders. It does not include the production application or account credentials.

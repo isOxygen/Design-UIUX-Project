@@ -1,11 +1,18 @@
 # Project timeline
 
-| Phase | Goal | Deliverable | Status |
-|---|---|---|---|
-| 1. Scope | Define one mobile task and document the implemented Status/Manage split | [Case study and redacted screenshots](../README.md) | Done |
-| 2. Structure | Map the setup paths and document failure and return behavior | [Flow](architecture.md) and [wireframes](wireframes.md) | Done |
-| 3. Review | Check the board and walk through the interactive prototype | [Validation and evidence](validation.md) | Done: author walkthrough; no measured usability result |
-| 4. Present | Prepare slides, live demo and a fallback | [Presentation](../../presentation/10-01/README.md) | Done |
-| 5. Follow-up validation | Record how users distinguish monitoring from setup and find the correct connection option | [Test protocol](validation.md) | Todo |
+These rows map the available work to course weeks; they do not record dates of participant sessions.
 
-The timeline describes project work and deliverables, not individual participant sessions.
+| Week | Goal or milestone | Verifiable result |
+| --- | --- | --- |
+| 01 | Problem and scope | [Problem brief](../../homework/01/README.md) |
+| 02 | Research approach and provisional journey | [Research plan](../../homework/02/README.md) |
+| 03 | Comparable-service usability review | [Comparator evidence](../../homework/03/README.md) |
+| 04 | Alternatives and prioritization | [Design alternatives](../../homework/04/README.md) |
+| 05 | Information architecture and task flow | [Sitemap and flow](../../homework/05/README.md) |
+| 06 | Screen hierarchy, states and responsive layout | [Wireframes](../../homework/06/README.md) |
+| 07 | Interactive walkthrough | [Prototype and constraints](../../homework/07/README.md) |
+| 08 | Usability protocol and visual guidance | [Test and UI guidance](../../homework/08/README.md) |
+| 09 | Design decisions and reusable components | [Decision and component notes](../../homework/09/README.md) |
+| 10 | Presentation, demo and backup | [Presentation](../../homework/10/README.md) |
+
+See [Project overview](../README.md) for the design and current status.

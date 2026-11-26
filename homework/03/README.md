@@ -1,6 +1,6 @@
 ---
 week: "03"
-student: "Mohammadhossein Zare"
+neptun: "DJSAMS"
 ---
 
 # 03: Usability and accessibility audit

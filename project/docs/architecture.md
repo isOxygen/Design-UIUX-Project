@@ -22,3 +22,4 @@ flowchart LR
 
 The dotted branches are design cases. The prototype is expected to demonstrate one recoverable exception; do not infer the remaining branches are implemented. The prototype never exposes a real configuration or link. The four core wireframes are Status, Manage, configuration outcome and subscription-link outcome.
 
+[DLSP FigJam board](https://www.figma.com/board/YKMsKXq0KdPqBdp26FtpbG?node-id=4-41) · [DLSP Figma prototype](https://www.figma.com/proto/xlMfwAFsziZRuoTJ4dYbMb?node-id=5-2)

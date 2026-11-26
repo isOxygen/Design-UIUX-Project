@@ -37,7 +37,7 @@ Upgrade remains below the core connection actions.
 
 # Demo: from Status to a connection option
 
-Use slide 3 and the demo script to walk through the prototype flow.
+Open the [DLSP Figma prototype](https://www.figma.com/proto/xlMfwAFsziZRuoTJ4dYbMb?node-id=5-2). Use slide 3 as a backup if it does not load.
 
 **Status → Manage → Get config or Subscription link.**
 
