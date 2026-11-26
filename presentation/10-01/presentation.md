@@ -17,9 +17,8 @@ The split groups related choices together. Each view is easier to focus on, and 
 
 # 03. Status and Manage have different jobs
 
-![Two full mobile screenshots side by side: Status and Manage](slide-03-mobile-views.png)
-
-These are the two implemented views of the same service, not a before-and-after comparison. Identifiers have been masked.
+- **Status:** Check remaining data, time, and validity.
+- **Manage:** Get a configuration or subscription link.
 
 ---
 
@@ -35,11 +34,11 @@ Upgrade remains below the core connection actions.
 
 # Demo: from Status to a connection option
 
-Open the [DLSP Figma prototype](https://www.figma.com/proto/xlMfwAFsziZRuoTJ4dYbMb?node-id=5-2). Use slide 3 as a backup if it does not load.
+Open the [DLSP Figma prototype](https://www.figma.com/proto/xlMfwAFsziZRuoTJ4dYbMb?node-id=5-2).
 
 **Status → Manage → Get config or Subscription link.**
 
-Show one outcome, return to Manage, and try the other branch. The results are placeholders. If the viewer fails, use the two screenshots above.
+Show one outcome, return to Manage, and try the other branch. The results are placeholders. If the viewer fails, walk through the task path on this slide.
 
 ---
 
