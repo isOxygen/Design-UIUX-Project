@@ -7,6 +7,7 @@ DLSP is a mobile subscription-management case study. It documents an implemented
 - [Project case study](project/README.md)
 - [Homework 01–10](homework/README.md)
 - [Presentation, speaker notes and demo backup](presentation/10-01/README.md)
+- [FigJam review](https://www.figma.com/board/YKMsKXq0KdPqBdp26FtpbG?node-id=4-41) · [Playable Figma prototype](https://www.figma.com/proto/xlMfwAFsziZRuoTJ4dYbMb/DeltaSpeed---Status-and-Manage-Prototype?node-id=5-2)
 
 **Student:** Mohammadhossein Zare  
 
