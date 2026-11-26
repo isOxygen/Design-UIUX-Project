@@ -11,4 +11,6 @@ Use a single header and persistent Status/Manage tabs. Wireframe the two main vi
 
 [DLSP Figma prototype](https://www.figma.com/proto/xlMfwAFsziZRuoTJ4dYbMb?node-id=5-2)
 
+[DLSP Figma Design file](https://www.figma.com/design/xlMfwAFsziZRuoTJ4dYbMb?node-id=5-2)
+
 [Course brief](https://pte-mik.github.io/info/ux-ui-en/content/06/06-00-homework/)
