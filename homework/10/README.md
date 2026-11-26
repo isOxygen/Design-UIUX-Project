@@ -5,7 +5,7 @@ neptun: "DJSAMS"
 
 # 10: Project presentation
 
-Present the rationale through the two current screenshots, the clickable connection flow and the limits of the evidence. Use the prepared slides and rehearsal script; the deck is designed for seven minutes.
+Explain why DLSP separates Status from Manage, demonstrate the connection setup in the clickable prototype, and describe what the informal feedback can and cannot show. Use the prepared slides and rehearsal script; the deck is designed for seven minutes.
 
 [Slides and demo](../../presentation/10-01/README.md)
 
